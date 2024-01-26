@@ -1,2 +1,10 @@
 # SF_task24.2.4
 tests for each calculator method
+method:
+test_adding_success
+test_adding_unsucces
+test_zero_division
+test_subtraction_success
+test_multiply_succes
+test_division_success
+teardown
